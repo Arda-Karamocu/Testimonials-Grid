@@ -12,7 +12,7 @@ This is a solution to the [Testimonials Grid Section challenge on Frontend Mento
 
 ## 📸 Screenshot
 
-![Desktop Screenshot](./src/images/screenshot.png)
+![Desktop Screenshot](./src/desktop-design.jpg)
 
 ## 🚀 Getting Started
 
